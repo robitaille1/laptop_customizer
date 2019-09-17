@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../Total/Total.css'
 
 
 export default class Total extends Component {
